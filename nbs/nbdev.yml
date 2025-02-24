@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "make_llm"
+  site-url: "https://ozpau.github.io/make_llm"
+  description: "Notes for Build a Large Language Model by Sebastian Raschka"
+  repo-branch: main
+  repo-url: "https://github.com/ozpau/make_llm"

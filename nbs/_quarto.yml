@@ -1,0 +1,25 @@
+format:
+  commonmark: default
+  html:
+    css: styles.css
+    keep-md: true
+    theme:
+      dark: superhero
+      light: united
+    toc: true
+metadata-files:
+- nbdev.yml
+- sidebar.yml
+project:
+  type: website
+website:
+  favicon: favicon.png
+  navbar:
+    background: primary
+    search: true
+  open-graph: true
+  repo-actions:
+  - issue
+  sidebar:
+    style: floating
+  twitter-card: true
