@@ -3,4 +3,10 @@ website:
     contents:
       - index.ipynb
       - 00_core.ipynb
-      - 02_token_encoding.ipynb
+      - 02_token_embeddings.ipynb
+      - section: discussions
+        contents:
+          - discussions/attention.qmd
+      - section: transformers
+        contents:
+          - transformers/00_transformers.ipynb
