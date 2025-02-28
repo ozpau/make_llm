@@ -3,6 +3,7 @@ title: "Attention"
 description: "Discussion questions for attention"
 ---
 
+## Concrete
 1. What made modelling long sequences hard with RNN?
 2. In simplified attention, how do we compute context vectors for each token?
 3. How does attention help with modelling long sequences?
@@ -21,16 +22,21 @@ description: "Discussion questions for attention"
 11. How many context vectors do we need to compute?
 12. What are the different ways of implementing multi-head attention?
 13. How hard is it to change context length of a model?
-14. How does attention mechanism help maintain contextual relevance over
-    long passages of text?
-15. What are the implications of using dot-product when computing attention weights?
-    Are there any alternatives and what would change if they were used?
-16. Why do we need multi-head attention and what can multi-head attention
-    encode that larger single-head attention can't encode?
-17. How does attention in LLM differ from human attention?
-18. When implementing multi-head attention, what are the tensor operations
-    that we need to do and why?
-19. How can you go about interpreting attention weights?
-20. What are some of the things one can try to reduce amount of computation required to
-    compute context vectors?
-21. Is attention limited to text?
+
+## More Abstract
+1. What are the implications of using dot-product when computing attention weights?
+   Are there any alternatives and what would change if they were used?
+2. Why do we need multi-head attention and what can multi-head attention
+   encode that larger single-head attention can't encode?
+3. When implementing multi-head attention, what are the tensor operations
+   that we need to do and why?
+4. How can you go about interpreting attention weights?
+5. What are some of the things one can try to reduce amount of computation required to
+   compute context vectors?
+6. How does attention in LLM differ from human attention?
+7. Is attention limited to text?
+
+## Redundant
+
+1. How does attention mechanism help maintain contextual relevance over
+   long passages of text?
