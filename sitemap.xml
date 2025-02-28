@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ozpau.github.io/make_llm/index.html</loc>
+    <lastmod>2025-02-28T23:49:19.215Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ozpau.github.io/make_llm/discussions/attention.html</loc>
+    <lastmod>2025-02-28T23:48:13.083Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ozpau.github.io/make_llm/transformers/transformers.html</loc>
+    <lastmod>2025-02-28T23:49:22.569Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ozpau.github.io/make_llm/core.html</loc>
+    <lastmod>2025-02-28T23:49:19.202Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ozpau.github.io/make_llm/token_embeddings.html</loc>
+    <lastmod>2025-02-28T23:49:22.608Z</lastmod>
+  </url>
+</urlset>
